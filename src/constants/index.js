@@ -1,0 +1,5 @@
+const apiKey = '722094f107b7c151a99a7f76ef279809';
+const token =
+  'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3MjIwOTRmMTA3YjdjMTUxYTk5YTdmNzZlZjI3OTgwOSIsIm5iZiI6MTcyMzM3NTc2Ny42Nzg4ODQsInN1YiI6IjY1ZDc4MmRiYjMzOTAzMDE3YTQ2YTM2OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.BKdTc3y2bCmC4dcP2n7_TIwH9rJV0i6fyD81ZLqrtWs';
+
+export {apiKey, token};
